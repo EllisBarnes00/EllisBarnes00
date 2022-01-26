@@ -1,5 +1,4 @@
 # Hi 👋, I'm Ellis Barnes! Welcome to my GitHub.
-
 - 👨‍💻 I am a computer science student, psychonaut, and gamer!
 - 👯 I am always ready to start a new project with people, I have a [Discord][discord_server] where many people are looking for the same. It is C/C++ oriented, but feel free to stop by anyways.
 - 🌱 Currently, I am learning C as I find it pretty intuitive and makes me think more about what I am doing than other languages that I have programmed in.
@@ -17,8 +16,7 @@
 <a href="https://www.twitch.tv/ellisbarnes_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="ellisbarnes_00" height=35" width="35" /></a>
 </p>
 
----
-
+## Github Trophys: 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ellisbarnes00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [twitch]: https://www.twitch.tv/ellisbarnes_00
