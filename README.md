@@ -1,14 +1,3 @@
-### Hello! My name is Ellis Barnes - AKA Blake 👋 
-
-## .
-
-- I enjoy researching many different things ranging from psychopharmacology and my passion for computer science.
-- 
--  
-- 
-- I am intending on making a blog for what I am learning, but I have no idea how to even start.
-- 
-
 <h1 align="center">Hi 👋, I'm Ellis Barnes</h1>
 <h3 align="center">I'm a Computer Science Student, Harm-Reduction Advocate, and Gamer.</h3>
 
