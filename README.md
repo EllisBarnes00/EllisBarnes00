@@ -6,6 +6,11 @@
 - 🥅 In 2022 I want to learn more about hacking, unix programming, possibly some game development, and make a blog for what I am learning so people can follow my path.
 - ⚡ Fun fact: I stream ocassionally on [Twitch][twitch], things range from software development, chatting, and of course gaming.
 
+### Languages and Tools:
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="c" width="35" height="35"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="35" height="35"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" width="35" height="35"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="35" height="35"/> </a> </p>
+
+---
+
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ellisbarnes00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ellisbarnes00" height="35" width="35" /></a>
@@ -13,9 +18,6 @@
 <a href="https://discord.gg/hx3HcNUwzh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hx3HcNUwzh" height="35" width="35" /></a>
 <a href="https://www.twitch.tv/ellisbarnes_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="ellisbarnes_00" height=35" width="35" /></a>
 </p>
-
-### Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="c" width="35" height="35"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="35" height="35"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" width="35" height="35"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="35" height="35"/> </a> </p>
 
 ---
 
