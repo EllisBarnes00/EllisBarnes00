@@ -1,5 +1,6 @@
-# Hi 👋, I'm Ellis Barnes
-### I'm a Computer Science Student, Harm-Reduction Advocate, and Gamer.
+# Hi 👋, I'm Ellis Barnes! Welcome to my GitHub.
+
+- 👨‍💻 I am a computer science student, psychonaut, and gamer!
 - 👯 I am always ready to start a new project with people, I have a [Discord][discord_server] where many people are looking for the same. It is C/C++ oriented, but feel free to stop by anyways.
 - 🌱 Currently, I am learning C as I find it pretty intuitive and makes me think more about what I am doing than other languages that I have programmed in.
 - 🥅 In 2022 I want to learn more about hacking, unix programming, possibly some game development, and make a blog for what I am learning so people can follow my path.
