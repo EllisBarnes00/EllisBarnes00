@@ -17,7 +17,7 @@
 ### Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="c" width="35" height="35"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="35" height="35"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" width="35" height="35"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="35" height="35"/> </a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ellisbarnes00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[![trophy](https://github-profile-trophy.vercel.app/?username=ellisbarnes00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ellisbarnes00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [twitch]: https://www.twitch.tv/ellisbarnes_00
 [discord_server]: https://discord.gg/hx3HcNUwzh
