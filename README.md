@@ -16,7 +16,7 @@
 <a href="https://www.twitch.tv/ellisbarnes_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="ellisbarnes_00" height=35" width="35" /></a>
 </p>
 
-## Github Trophys: 
+## Github Trophies: 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ellisbarnes00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [twitch]: https://www.twitch.tv/ellisbarnes_00
