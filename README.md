@@ -22,6 +22,6 @@
 [twitch]: https://www.twitch.tv/ell_ow
 [discord_server]: https://discord.gg/hx3HcNUwzh
 
-Donations to help with college:
-**BTC**: bc1qj5m3966ny8fwfffrg7z8y9ff3rfcxts8fz9wkv
-**ETH**: 0xb56B3Fe84925bD80E90760e5616D1863f8C1EAc5
+## Donations to help with college:
+- **BTC**: bc1qj5m3966ny8fwfffrg7z8y9ff3rfcxts8fz9wkv
+- **ETH**: 0xb56B3Fe84925bD80E90760e5616D1863f8C1EAc5
